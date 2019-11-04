@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hdfc.bank</groupId>
   <artifactId>coustomer</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>bank</version>
   <name>coustomer</name>
   <url>http://maven.apache.org</url>
