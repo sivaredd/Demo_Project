@@ -1,1 +1,3 @@
-Hi my name is siva
+public void main ()
+{
+   int a,b;
